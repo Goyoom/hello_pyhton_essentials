@@ -1,2 +1,2 @@
-# hello_pyhton_essentials
-Teaching Python
+# Python Programming Essentials 
+Teaching Python workshops by Goyooom Education.
