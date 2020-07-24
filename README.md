@@ -1,2 +1,2 @@
 # Python Programming Essentials 
-Teaching Python workshops by Goyooom Education.
+Python Programming workshops by Goyooom Education.
