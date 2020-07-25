@@ -2,13 +2,11 @@
 
 # ------------------------------------------------------------------------------
 #  (c) 2020 Goyoom Inc. All right are reserved.
-#  July 23, 2020
+#  July 25, 2020
 # ------------------------------------------------------------------------------
 """Python Programming workshops by Goyoom Education."""
 
-# DONE: The Shebang Line
-# DONE: Installing 'Pylint' Extension and Plugin
-# DONE: Local History and Labels
-# DONE: Git Repository
-# DONE: Freezing Requirements 'pip freeze'
-# DONE: Installing 'Requirements' Plugin
+# TODO: The 'pip install -r' command
+# TODO: Using .gitignore templates
+# TODO: Docstrings
+# TODO: The Zen of Python

@@ -1,17 +1,19 @@
 #!./venv/bin/python
-# ------------------------------------------------------------------------------
-# (c) 2020 Goyoom Education.
-# July 18, 2020
-# ------------------------------------------------------------------------------
 
-# TODO: [x] What is Python?
-# TODO: [x] Python vs. Java
-# TODO: [x] Interpreter vs. Compiler
-# TODO: [x] Python Interactive Mode
-# TODO: [x] The '_' read-only variable
-# TODO: [x] Duck Typing
+# ------------------------------------------------------------------------------
+#  (c) 2020 Goyoom Inc. All right are reserved.
+#  July 18, 2020
+# ------------------------------------------------------------------------------
+"""Python Programming workshops by Goyoom Education."""
 
-# TODO: [x] Comments in Python
+# DONE: What is Python?
+# DONE: Python vs. Java
+# DONE: Interpreter vs. Compiler
+# DONE: Python Interactive Mode
+# DONE: The '_' read-only variable
+# DONE: Duck Typing
+
+# DONE: Comments in Python
 # This is a comment
 # There is no multi-line comment in Python
 
