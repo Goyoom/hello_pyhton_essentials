@@ -6,22 +6,21 @@
 # ------------------------------------------------------------------------------
 """Python Programming workshops by Goyoom Education."""
 
-import this
+import this  # noqa (no quality assurance)
 
 
 # DONE: The 'pip install -r <filename>' CLI command
 # DONE: Using a .gitignore template
-
 # DONE: Docstrings (Document Strings)
 def func(x, y):
     """Short line description.
 
     Extended description of function.
 
-    :param x: description of x
+    :parameter x: description of x
     :type x: int
 
-    :param y: description of y
+    :parameter y: description of y
     :type y: int
 
     :return: description of return value
@@ -34,6 +33,7 @@ print(func.__doc__)
 help(func)
 
 # DONE: The Zen of Python
+"""
 # Beautiful is better than ugly.
 # Explicit is better than implicit.
 # Simple is better than complex.
@@ -53,3 +53,4 @@ help(func)
 # If the implementation is hard to explain, it's a bad idea.
 # If the implementation is easy to explain, it may be a good idea.
 # Namespaces are one honking great idea -- let's do more of those!
+"""
