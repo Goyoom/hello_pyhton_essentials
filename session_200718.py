@@ -9,17 +9,12 @@
 # DONE: What is Python?
 # DONE: Python vs. Java
 # DONE: Interpreter vs. Compiler
-# DONE: Python Interactive Mode
+# DONE: Interactive Python Mode
 # DONE: The '_' read-only variable
 # DONE: Duck Typing
-
 # DONE: Comments in Python
 # This is a comment
 # There is no multi-line comment in Python
 
 # Inline comment
-names = [
-    'John',  # John Watson
-    'Peter',  # Peter Eamon
-    'Sarah'  # Sarah Anderson
-]
+names = ['John', 'Peter', 'Sarah']  # John Watson  # Peter Eamon  # Sarah Anderson
