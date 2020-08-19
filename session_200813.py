@@ -1,8 +1,7 @@
 #!./venv/bin/python
-
 # ------------------------------------------------------------------------------
 #  (c) 2020 Goyoom Inc. All right are reserved.
-#  July 25, 2020
+#  August 13, 2020
 # ------------------------------------------------------------------------------
 """Python Programming workshops by Goyoom Education."""
 
@@ -16,7 +15,7 @@ print(config.msg)  # hello from config.py
 filename = 'fonts.css'
 file, ext = filename.split('.')
 
-print(file + ' is a ' + ext + ' file')
+print(file + ' is a ' + '.' + ext + ' file')
 
 # DONE: Double assignment
 a = 32
