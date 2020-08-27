@@ -3,11 +3,14 @@
 #  (c) 2020 Goyoom Inc. All right are reserved.
 #  August 13, 2020
 # ------------------------------------------------------------------------------
-"""Python Programming workshops by Goyoom Education."""
+"""Python Programming workshops by Goyoom Education.
+
+Getting Started."""
 
 import config
 
 # DONE: Setting up 'black' formatter
+# DONE: Creating Virtual Environment With 'virtualenv'
 # DONE: Understanding Python modules
 print(config.msg)  # hello from config.py
 
@@ -15,26 +18,27 @@ print(config.msg)  # hello from config.py
 filename = 'fonts.css'
 file, ext = filename.split('.')
 
-print(file + ' is a ' + '.' + ext + ' file')
+print(file + ' is a ' + '.' + ext + ' file')  # fonts is a .css file
+
 
 # DONE: Double assignment
-a = 32
-x = y = z = a
+A = 32
+x = y = z = A
 
 print(x)  # 32
 print(y)  # 32
 print(z)  # 32
 
 # DONE: The Unexpected 'UnboundLocalError' error
-a = 1
+A = 1
 
 
 def func():
     """Print a global variable value."""
 
-    global a  # use global variable
-    a += 1
-    print(a)
+    global A  # use global variable
+    A += 1
+    print(A)
 
 
 func()  # 2

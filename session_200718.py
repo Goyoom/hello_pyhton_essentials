@@ -3,7 +3,9 @@
 #  (c) 2020 Goyoom Inc. All right are reserved.
 #  July 18, 2020
 # ------------------------------------------------------------------------------
-"""Python Programming workshops by Goyoom Education."""
+"""Python Programming workshops by Goyoom Education.
+
+Getting Started."""
 
 # DONE: What is Python?
 # DONE: Python vs. Java

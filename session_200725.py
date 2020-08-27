@@ -3,7 +3,9 @@
 #  (c) 2020 Goyoom Inc. All right are reserved.
 #  July 25, 2020
 # ------------------------------------------------------------------------------
-"""Python Programming workshops by Goyoom Education."""
+"""Python Programming workshops by Goyoom Education.
+
+Getting Started."""
 
 import this  # noqa (no quality assurance)
 
