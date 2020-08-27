@@ -67,7 +67,7 @@ print('Python'[-1])  # n
 
 # Here's some mail for you.  Hope you enjoy the message!
 
-# TODO: Strings Control Alignment
+# TODO: Strings Control Alignment with .format()
 # print('{0:9} | {1:8}'.format('Vegetable', 'Quantity'))
 # print('{0:9} | {1:8}'.format('Asparagus', 3))
 # print('{0:9} | {1:8}'.format('Onions', 10))
@@ -76,10 +76,6 @@ print('Python'[-1])  # n
 # Asparagus |        3
 # Onions    |       10
 
-# using padding only
-# print('{}{:03}'.format('No.', 2))  # No.02
-# print('{}{:02}'.format('No.', 12))  # No.12
-
 # print('{0:9} | {1:<8}'.format('Vegetable', 'Quantity'))
 # print('{0:9} | {1:<8}'.format('Asparagus', 3))
 # print('{0:9} | {1:<8}'.format('Onions', 10))
@@ -87,6 +83,10 @@ print('Python'[-1])  # n
 # Vegetable | Quantity
 # Asparagus | +3
 # Onions    | 10
+
+# TODO: Strings Control Padding with .format()
+# print('{}{:03}'.format('No.', 2))  # No.02
+# print('{}{:02}'.format('No.', 12))  # No.12
 
 # TODO: Unicode Characters
 # emoji = '\U0001f600'
