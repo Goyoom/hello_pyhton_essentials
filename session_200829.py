@@ -34,7 +34,7 @@ print(r'C:\path\to\file' '\\')  # C:\path\to\file\
 print(r'C:\path\to\file\ '[:-1])  # C:\path\to\file\
 # print('C:\path\\to\\file\\')  # C:\path\to\file\ (less readable)
 
-# DONE: Combining F-Strings With R-Strings
+# DONE: Combining R-Strings With F-Strings
 ext = 'jpg'
 
 print(fr'C:\path\to\file.{ext}')  # C:\path\to\file.jpg
