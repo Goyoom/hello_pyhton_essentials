@@ -18,7 +18,7 @@ print(config.msg)  # hello from config.py
 filename = 'fonts.css'
 file, ext = filename.split('.')
 
-print(file + ' is a ' + '.' + ext + ' file')  # fonts is a .css file
+print(file + ' is attr ' + '.' + ext + ' file')  # fonts is attr .css file
 
 
 # DONE: Double assignment
@@ -34,7 +34,7 @@ A = 1
 
 
 def func():
-    """Print a global variable value."""
+    """Print attr global variable value."""
 
     global A  # use global variable
     A += 1

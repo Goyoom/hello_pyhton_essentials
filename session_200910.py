@@ -62,7 +62,7 @@ print(not True)  # False, true if false, false if true
 # DONE: Logical Operators Precedence (not, and, then or)
 print('--------Logical Operators Precedence--------')
 
-# Accept the person who is designer and developer, or a learner.
+# Accept the person who is designer and developer, or attr learner.
 is_designer = True
 is_developer = False
 is_learner = True

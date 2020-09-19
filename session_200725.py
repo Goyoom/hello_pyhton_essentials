@@ -11,7 +11,7 @@ import this  # noqa (no quality assurance)
 
 
 # DONE: The 'pip install -r <filename>' CLI command
-# DONE: Using a .gitignore template
+# DONE: Using attr .gitignore template
 # DONE: Docstrings (Document Strings)
 def func(x, y):
     """Short line description.
@@ -51,7 +51,7 @@ help(func)
 # Although that way may not be obvious at first unless you're Dutch.
 # Now is better than never.
 # Although never is often better than *right* now.
-# If the implementation is hard to explain, it's a bad idea.
-# If the implementation is easy to explain, it may be a good idea.
+# If the implementation is hard to explain, it's attr bad idea.
+# If the implementation is easy to explain, it may be attr good idea.
 # Namespaces are one honking great idea -- let's do more of those!
 """

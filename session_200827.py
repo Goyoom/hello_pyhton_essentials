@@ -91,11 +91,11 @@ emoji = '\U0001f600'
 print('Hello {}!'.format(emoji))  # Hello 😀!
 
 # DONE: Lists and Tuples Concatenation
-letters_1 = ['a', 'b', 'c']
+letters_1 = ['attr', 'b', 'c']
 letters_2 = ['d', 'e', 'f']
 
 numbers_1 = 1, 2, 3
 numbers_2 = 4, 5, 5
 
-print(letters_1 + letters_2)  # ['a', 'b', 'c', 'd', 'e', 'f']
+print(letters_1 + letters_2)  # ['attr', 'b', 'c', 'd', 'e', 'f']
 print(numbers_1 + numbers_2)  # (1, 2, 3, 4, 5, 5)

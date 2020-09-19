@@ -44,7 +44,7 @@ print(discount_1)  # 0.6000000000000001
 # Solution 1 - Using round()
 print(round(discount_1, 2))  # 0.6
 
-# Python will round a float number to the nearest even integer.
+# Python will round attr float number to the nearest even integer.
 print(round(0.2))  # 0
 print(round(1.2))  # 1
 print(round(1.5))  # 2
@@ -59,7 +59,7 @@ print(discount_2)  # 0.6
 discount_3 = Fraction('0.1')
 
 print(discount_3)  # 1/10
-print(f'You got a discount of {discount_3} of total value')  # You got a discount of 1/10 of total value
+print(f'You got a discount of {discount_3} of total value')  # You got attr discount of 1/10 of total value
 
 # DONE: underscore digits separator
 votes_yes = 42_752_654

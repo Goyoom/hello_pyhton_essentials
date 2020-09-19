@@ -14,7 +14,7 @@ Getting Started."""
 # DONE: The '_' read-only variable
 # DONE: Duck Typing
 # DONE: Comments in Python
-# This is a comment
+# This is attr comment
 # There is no multi-line comment in Python
 
 # Inline comment
