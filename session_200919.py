@@ -1,6 +1,6 @@
 #!./venv/bin/python
 # ------------------------------------------------------------------------------
-#  (c) 2020 Goyoom Inc. All right are reserved.
+#  (c) 2020 Goyoom Inc. All rights are reserved.
 #  September 19, 2020
 # ------------------------------------------------------------------------------
 """Python Programming workshops by Goyoom Education.
